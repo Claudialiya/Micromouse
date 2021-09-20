@@ -6,7 +6,7 @@
 # Techfest 2021 - International Micromouse Competition
 
 
-[Video](https://github.com/meshtag/Micromouse/blob/master/pkg_tf_micromouse/Micromouse.mp4)
+https://github.com/meshtag/Micromouse/blob/master/pkg_tf_micromouse/Micromouse.mp4
 
 
 ## gmaze - Gazebo Micromouse Maze Generator 
